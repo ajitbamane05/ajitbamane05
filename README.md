@@ -3,7 +3,6 @@
 #### I'm a Fullstack Developer based in Pune, India 🇮🇳
 
 - 🔭 I’m currently working on building scalable web applications with Node.js, React.js, and AWS.
-- 🌱 I’m currently learning advanced TypeScript and Docker best practices.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything related to web development technologies or best practices.
 - 📫 How to reach me: You can find below.
